@@ -17,4 +17,4 @@
 
 [Figma](https://www.figma.com/file/aVjezkBAyrQLbjnIysbSpR/nothing?node-id=0%3A1) (Project layout)
 
- [Telegram](https://t.me/sh4p1k) (Contact me)
+ [Telegram](https://t.me/nothing_in_TG) (Contact me)
