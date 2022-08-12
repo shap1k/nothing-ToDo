@@ -60,7 +60,7 @@ body {
     font-weight: 500;
     font-size: 24px;
     line-height: 36px;
-    color: #8E8E8E;
+    color: #000000;
 }
 
 .nav-menu__about {
@@ -70,7 +70,7 @@ body {
     font-weight: 500;
     font-size: 24px;
     line-height: 36px;
-    color: #8E8E8E;
+    color: #000000;
 }
 
 .section {
@@ -133,4 +133,48 @@ body {
     padding-top: 80px;
 }
 
+/* Information page */
 
+.logo-info {
+    display: block;
+    margin: 0 auto;
+    padding-top: 135px;
+}
+
+.text-info {
+    width: 1170px;
+    height: 190px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 150%;
+    text-align: center;
+    color: #000000;
+    padding-top: 60px;
+}
+
+.btn-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 250px;
+    height: 59px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 150%;
+    color: #000000;
+    transition: all 1s ease;
+    margin-bottom: 140px;
+}
+
+.btn-info:hover {
+    background: black;
+    color: white;
+}
