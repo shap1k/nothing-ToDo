@@ -41,36 +41,21 @@ body {
     display: inline-block;
 }
 
-.nav-menu__home {
-    padding-right: 40px;
+.nav-menu a {
+    padding-right: 10px;
     text-decoration: none;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
     line-height: 36px;
-    color: #000000;
+    color: #8E8E8E;
+    margin: 10px;
+    transition: all 1s ease;
 }
 
-.nav-menu__info {
-    padding-right: 40px;
-    text-decoration: none;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 36px;
-    color: #000000;
-}
-
-.nav-menu__about {
-    text-decoration: none;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 36px;
-    color: #000000;
+.nav-menu a:hover {
+    color: black;
 }
 
 .section {
@@ -178,3 +163,35 @@ body {
     background: black;
     color: white;
 }
+
+/* About Us page */
+
+.wrapper-about {
+    padding: 330px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-about {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 150%;
+    text-align: center;
+    color: black;
+}
+
+.wrapper-about a {
+    transition: all 1s ease;
+}
+.wrapper-about a:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
