@@ -4,7 +4,7 @@
 
 <br>
 
-### SERVICE FOR ORGANIZE YOUR LIFE 🗃️
+### 🗃️ SERVICE FOR ORGANIZE YOUR LIFE 🗃️
 
 
 😍 Keep organized with your daily tasks & Manage everything from 1 place.
